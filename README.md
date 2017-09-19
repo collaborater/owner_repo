@@ -7,3 +7,5 @@
 owner
 1.enhancement
 2.editing
+
+commit by owner with issue number
